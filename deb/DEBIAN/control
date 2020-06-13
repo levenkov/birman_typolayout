@@ -1,0 +1,6 @@
+Maintainer: "Artem Levenkov" <artem@levenkov.org>
+Standards-Version: 4.1.4
+Package: birman-layout
+Version: 1.0.0
+Architecture: %arch%
+Description: Birman's typographic keyboard layout
